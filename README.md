@@ -1,1 +1,1 @@
-# Barcode-based Sterilization System for Hospital Equipmens
+# Barcode-based Sterilization System for Hospital Equipments
